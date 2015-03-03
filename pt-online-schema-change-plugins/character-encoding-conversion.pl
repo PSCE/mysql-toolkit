@@ -1,9 +1,7 @@
-/**
-*
-* Copyright (c) 2015 Maciej Dobrzanski
-* Distributed under the GNU GPL v2
-*
-*/
+##
+## Copyright (c) 2015 Maciej Dobrzanski
+## Distributed under the GNU GPL v2
+##
 
 package pt_online_schema_change_plugin;
 
